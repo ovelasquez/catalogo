@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1131.582 36 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #009ade;
+      }
+    </style>
+  </defs>
+  <g id="Group_11" data-name="Group 11" transform="translate(1131.582 36)">
+    <g id="logo-de-instagram">
+      <g id="Group_10" data-name="Group 10">
+        <path id="Path_17" data-name="Path 17" class="cls-1" d="M22.358,24.861a2.5,2.5,0,1,0-2.5-2.5A2.506,2.506,0,0,0,22.358,24.861Z" transform="translate(-9.859 -9.858)"/>
+        <path id="Path_18" data-name="Path 18" class="cls-1" d="M33.3,16.37V13.96h-.314l-2.1.007.008,2.41Z" transform="translate(-15.337 -6.931)"/>
+        <path id="Path_19" data-name="Path 19" class="cls-1" d="M12.5,0A12.5,12.5,0,1,0,25,12.5,12.514,12.514,0,0,0,12.5,0Zm7.109,11.041v5.821a2.751,2.751,0,0,1-2.748,2.748H8.139a2.75,2.75,0,0,1-2.748-2.748V8.139A2.75,2.75,0,0,1,8.139,5.392h8.722a2.751,2.751,0,0,1,2.748,2.748Z"/>
+        <path id="Path_20" data-name="Path 20" class="cls-1" d="M23.07,23.388a3.888,3.888,0,1,1-7.491-1.459H13.457V27.75a1.362,1.362,0,0,0,1.362,1.361h8.722A1.363,1.363,0,0,0,24.9,27.75V21.929H22.781A3.835,3.835,0,0,1,23.07,23.388Z" transform="translate(-6.681 -10.888)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,2 @@
+[13-Apr-2017 07:09:22 America/Caracas] PHP Fatal error:  Call to a member function get_var() on null in /home/catalog2/public_html/wp-content/themes/twentyfifteen/functions.php on line 60
+[13-Apr-2017 08:47:19 America/Caracas] PHP Fatal error:  Call to undefined function get_header() in /home/catalog2/public_html/wp-content/themes/twentyfifteen/404.php on line 10

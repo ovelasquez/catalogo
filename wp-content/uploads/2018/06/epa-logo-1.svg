@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161 50.115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #009de1;
+      }
+
+      .cls-2 {
+        fill: #00509e;
+      }
+    </style>
+  </defs>
+  <g id="epa-logo2_1_" data-name="epa-logo2 (1)" transform="translate(0 0.1)">
+    <path id="Path_90" data-name="Path 90" class="cls-1" d="M0,19,27.154,32.543,0,46.085Z" transform="translate(0 -5.97)"/>
+    <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-2" width="18.08" height="9.487" transform="translate(53.69 3.337)"/>
+    <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-2" width="18.08" height="9.487" transform="translate(53.69 21.967)"/>
+    <rect id="Rectangle_87" data-name="Rectangle 87" class="cls-2" width="18.08" height="9.624" transform="translate(53.69 40.322)"/>
+    <rect id="Rectangle_88" data-name="Rectangle 88" class="cls-2" width="8.868" height="46.678" transform="translate(38.772 3.2)"/>
+    <rect id="Rectangle_89" data-name="Rectangle 89" class="cls-2" width="8.868" height="46.678" transform="translate(83.456 3.337)"/>
+    <path id="Path_91" data-name="Path 91" class="cls-2" d="M161.73,19.055A13.965,13.965,0,0,0,147.775,5.1H143.1v9.281h4.675a4.606,4.606,0,0,1,0,9.212H143.1v9.349h4.743A13.848,13.848,0,0,0,161.73,19.055" transform="translate(-44.726 -1.625)"/>
+    <path id="Path_92" data-name="Path 92" class="cls-2" d="M177.986,24.9l5.362,10.587L172.212,57.829H161.9Z" transform="translate(-50.602 -7.814)"/>
+    <path id="Path_93" data-name="Path 93" class="cls-2" d="M220.51,50.015,195.487-.1,190.4,10.212l10.587,21.242h-3.781L192.6,40.459h12.855l4.743,9.556Z" transform="translate(-59.51 0)"/>
+  </g>
+</svg>

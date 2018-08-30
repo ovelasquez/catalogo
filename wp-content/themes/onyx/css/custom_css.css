@@ -1,0 +1,41 @@
+
+@media (max-width: 767px) {
+  div header .mkd_logo img.hidden-xs {
+    display: none !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  div header .mkd_logo img.hidden-sm {
+    display: none !important;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .hidden-md {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .hidden-lg {
+    display: none !important;
+  }
+}
+
+@media (max-width: 1000px) {
+.header_bottom, nav.mobile_menu {
+background-color:whitet!important;
+  }
+header, .header_inner_left, footer.uncover{
+position: fixed!important;
+height:50px;
+}
+}
+
+header.fixed, header.fixed_hiding {
+bottom:0;
+bottom:initial;
+border: #ff0 solid 1px;
+}
+
+.mkd_logo img{
+right:0;
+}

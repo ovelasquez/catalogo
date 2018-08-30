@@ -1,0 +1,291 @@
+/*
+Theme Name:         Ronneby
+Theme URI:          http://themes.dfd.name/ronneby/
+Description:        Ronneby - Highly Functional Multifaceted WP Theme
+Version:            1.0.5
+Author:             DFD
+Author URI:         http://dfd.name/
+Tags:               light, white, one-column, two-columns, three-columns, right-sidebar, flexible-width, custom-background, custom-header, custom-menu, featured-images, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+
+License:            GPL v2
+License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.header-top-panel > .row{
+	width: 775px !important;
+	margin-top: 10px;
+}
+
+#headerTitle{
+  padding-left: 40px;
+}
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('fonts/glyphicons-halflings-regular.eot');
+  src: url('fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('fonts/glyphicons-halflings-regular.woff') format('woff'), url('fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+
+.entry-meta-wrap{
+	display: none !important;
+}
+
+@font-face {
+  font-family: 'Museo100';
+  src: url('fonts/MuseoSans-100.eot');
+  src: url('fonts/MuseoSans-100.eot?#iefix') format('embedded-opentype'), url('fonts/MuseoSans-100.woff') format('woff'), url('fonts/MuseoSans-100.ttf') format('truetype'), url('fonts/MuseoSans-100.svg#MuseoSans-100') format('svg');
+}
+
+@font-face {
+  font-family: 'Museo300';
+  src: url('fonts/MuseoSans-300.eot');
+  src: url('fonts/MuseoSans-300.eot?#iefix') format('embedded-opentype'), url('fonts/MuseoSans-300.woff') format('woff'), url('fonts/MuseoSans-300.ttf') format('truetype'), url('fonts/MuseoSans-300.svg#MuseoSans-300') format('svg');
+}
+
+p{
+    font-family: "Museo300" !important;
+    line-height: 20px !important;
+}
+
+h1{
+	font-family: "Museo100" !important;
+	font-size: 3.5em !important;
+	text-align: center !important;
+	text-transform: uppercase !important;
+	padding: 8px !important;
+	font-weight: normal !important;
+}
+
+.nav-menu .mega-menu-item .item-title{
+	font-family: "Museo300" !important;
+}
+
+.post{
+  	width: 305px !important;
+  }
+
+@media only screen and (max-width: 1100px){
+  .isotope{
+    height: 830px !important;
+  }
+  .post{
+  	width: 305px !important;
+  }
+}
+
+@media only screen and (max-width: 799px){
+    
+    .columns .twelve > .wpb_wrapper, .wpb_revslider_element .wpb_content_element, .rev_slider_wrapper, .rev_slider{
+		width: 765px !important;
+	}
+
+	#change_wrap_div{
+		/*height: 300vh !important;*/
+	}
+
+	.dfd-blog-module {
+    	margin-top: 40vh !important;
+    	margin-left: 18vw !important;
+	}
+
+	.entry-media{
+		width: 420px !important;
+	}
+
+	.entry-content{
+		  width: 420px !important;
+	}
+
+	.isotope{
+		margin-top: 90vh !important;
+		margin-left: 0vw !important;
+		/*margin-left: 20px !important;
+		height: 1070px !important;*/
+	}
+
+	#home{
+		height: 315px !important;
+	}
+
+	#layout{
+		margin-bottom: 0px !important;
+	}
+
+	h1{
+		font-size: 28px !important;
+	}
+
+	#hovered {
+		height: 255px !important;
+		width: 380px !important;
+	}
+
+  /*.isotope{
+    height: 830px !important;
+    margin-left: 95px !important
+    display:none;
+  }*/
+
+  .header-top-panel .header-info-panel {
+    height: 180px !important;
+  }
+
+  #header-container #header .header-wrap {
+    margin-top: 0px !important;
+  }
+}
+
+@media only screen and (max-width: 480px){
+
+  #main-content{
+      padding-left: 30px !important;
+  }
+
+  #home{
+      height: 280px;
+  }
+
+  .isotope{
+    height: 960px !important;
+    margin-left: 20px !important;
+  }
+
+  .header-top-panel .header-info-panel {
+    height: 110px !important;
+  }
+
+  .dfd-blog-module.blog_masonry .posts-list {
+    margin: 0px 50px !important;
+  }
+
+  .vc-row-wrapper .wpb_content_element {
+    margin-top: 15px;
+    text-align: center;
+  }
+
+  #layout {
+   margin: 0px 0 !important;
+  }
+
+  #header-container #header .header-wrap{
+    margin-top: 0px !important;
+  }
+
+  .wpb_wrapper > p{
+  	text-align: center !important;
+  }
+
+  .entry-meta > *:last-child {
+	padding-right: 55px !important;
+   }
+
+	.carousel, .carousel-inner {
+		width: inherit !important;
+	}
+
+}
+
+@media only screen and (max-width: 380px){
+	#change_wrap_div{
+		height: 495vh !important;
+	}
+
+	.dfd-blog-module {
+    	margin-top: 25vh !important;
+    	margin-left: 0vw !important;
+	}
+
+	.columns .twelve > .wpb_wrapper, .wpb_revslider_element .wpb_content_element, .rev_slider_wrapper, .rev_slider{
+		width: 330px !important;
+		height: 340px !important;
+	}
+
+  .post{
+  	width: 205px !important;
+  }
+
+  #main-content{
+      padding-left: 10px !important;
+  }
+
+  #home{
+  	height: 230px !important;
+  }
+
+  .nine{
+  	height: 890px !important;
+  }
+  .entry-content{
+  	width: 205px !important;
+  	padding: 0px 10px !important;
+  }
+  .entry-meta{
+  	width: 100px !important;
+  }
+
+  .entry-media{
+    width: 205px !important;
+  }
+	.entry-meta > *:last-child {
+		padding-right: 90px !important;
+   }
+
+	#headerTitle {
+	  padding-left: 5px !important;
+	}
+
+	.post, .search-results #main-content .post, .search-results #main-content article, #main-content > article {
+		width: 270px !important;
+	}
+
+	.slick-list{
+		width: 240px !important;
+		margin: auto !important;
+
+	}
+
+	.vc_tta-title-text{
+		font-size: 22px !important;
+	}
+
+	.carousel, .carousel-inner {
+		width: inherit !important;
+	}
+	.wpb_wrapper > h1 {
+		font-size: 26px !important;
+		line-height: 45.65px !important;
+	}
+}
+
+/*@media only screen and (min-device-width: 481px) and (max-device-width: 799px) and (orientation:landscape) {*/
+@media only screen and (max-device-width: 481px) and (orientation:landscape) {
+	.entry-media{
+		width: 420px !important;
+	}
+
+	.entry-content{
+		  width: 420px !important;
+	}
+
+	.isotope{
+		margin-left: 20px !important;
+		height: 1070px !important;
+	}
+
+	#home{
+		height: 315px !important;
+	}
+
+	#layout{
+		margin-bottom: 0px !important;
+	}
+}
+
+.nine > article {
+  width: 100% !important;
+}
+
+article > .clearfix > .entry-content > p, .posts-list > .post > .entry-content > p{
+	font-weight: bold;
+	font-size: 18px;
+}
